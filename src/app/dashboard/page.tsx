@@ -57,7 +57,13 @@ function DashboardPage() {
 
 export default DashboardPage;
 
-const CardBlock = ({ icon, title, desc, link }) => {
+interface CardBlockProps {
+  icon: React.ReactNode;
+  title: string;
+  desc: string;
+  link: string;
+}
+const CardBlock = ({ icon, title, desc, link }: CardBlockProps) => {
   return (
     <Card className="link-blocks">
       <Card.Header>{icon}</Card.Header>
