@@ -1,0 +1,14 @@
+.mainNavBar {
+  .navLink {
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    span {
+      margin-left: 2px;
+    }
+    &:hover {
+      background: rgba(0, 0, 0, 0.125);
+      color: #ffc107;
+    }
+  }
+}
