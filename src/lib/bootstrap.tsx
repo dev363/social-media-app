@@ -17,6 +17,7 @@ export {
   ButtonGroup,
   Dropdown,
   DropdownButton,
+  Accordion,
 } from "react-bootstrap";
 export const NavLink = Nav.Link;
 export const NavbarToggle = Navbar.Toggle;

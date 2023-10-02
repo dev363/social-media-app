@@ -37,7 +37,7 @@ const Header = () => {
         <NavbarToggle aria-controls="responsive-navbar-nav" />
         <NavbarCollapse id="responsive-navbar-nav">
           <Nav className="me-auto">
-            <NavLink className={Styles.navLink} href="/">
+            <NavLink className={Styles.navLink} href="/dashboard">
               <FaHome />
               <span> Home</span>
             </NavLink>

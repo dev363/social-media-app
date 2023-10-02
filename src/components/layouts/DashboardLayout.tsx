@@ -11,7 +11,7 @@ interface RootLayoutProps {
   children: React.ReactNode;
 }
 const DashboardLayout = ({ children }: RootLayoutProps) => {
-  const [isOpen, setIsOpen] = useState(false);
+  const [isOpen, setIsOpen] = useState(true);
   const [isMobile, setIsMobile] = useState(true);
 
   let previousWidth = -1;
