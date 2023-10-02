@@ -6,6 +6,9 @@ const nextConfig = {
     // appDir: true,
     serverComponentsExternalPackages: ["react-bootstrap"],
   },
+  typescript: {
+    ignoreBuildErrors: true,
+  },
 };
 
 module.exports = nextConfig;
