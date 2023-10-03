@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const TeamSection = () => {
   return (
     <section id="team" className="team section-bg">
@@ -16,7 +18,13 @@ const TeamSection = () => {
           <div className="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
             <div className="member d-flex align-items-start">
               <div className="pic">
-                <img src="/img/team/team-1.jpg" className="img-fluid" alt="" />
+                <Image
+                  width={300}
+                  height={300}
+                  src="/img/team/team-1.jpg"
+                  className="img-fluid"
+                  alt=""
+                />
               </div>
               <div className="member-info">
                 <h4>Walter White</h4>
@@ -50,7 +58,13 @@ const TeamSection = () => {
           >
             <div className="member d-flex align-items-start">
               <div className="pic">
-                <img src="/img/team/team-2.jpg" className="img-fluid" alt="" />
+                <Image
+                  width={300}
+                  height={300}
+                  src="/img/team/team-2.jpg"
+                  className="img-fluid"
+                  alt=""
+                />
               </div>
               <div className="member-info">
                 <h4>Sarah Jhonson</h4>
@@ -84,7 +98,13 @@ const TeamSection = () => {
           >
             <div className="member d-flex align-items-start">
               <div className="pic">
-                <img src="/img/team/team-3.jpg" className="img-fluid" alt="" />
+                <Image
+                  width={300}
+                  height={300}
+                  src="/img/team/team-3.jpg"
+                  className="img-fluid"
+                  alt=""
+                />
               </div>
               <div className="member-info">
                 <h4>William Anderson</h4>
@@ -118,7 +138,13 @@ const TeamSection = () => {
           >
             <div className="member d-flex align-items-start">
               <div className="pic">
-                <img src="/img/team/team-4.jpg" className="img-fluid" alt="" />
+                <Image
+                  width={300}
+                  height={300}
+                  src="/img/team/team-4.jpg"
+                  className="img-fluid"
+                  alt=""
+                />
               </div>
               <div className="member-info">
                 <h4>Amanda Jepson</h4>

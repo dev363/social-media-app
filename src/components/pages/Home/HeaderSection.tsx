@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const HeaderSection = () => {
   return (
     <section id="hero" className="d-flex align-items-center">
@@ -30,7 +32,9 @@ const HeaderSection = () => {
             data-aos="zoom-in"
             data-aos-delay="200"
           >
-            <img
+            <Image
+              width={700}
+              height={700}
               src="/img/hero-img.png"
               className="img-fluid animated"
               alt=""

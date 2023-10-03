@@ -1,5 +1,5 @@
 "use client";
-import React, { Fragment, useState, useEffect } from "react";
+import React, { Fragment, useState, useEffect, useCallback } from "react";
 import "@/styles/pages/dashboard.css";
 import Header from "./Header";
 import { Container } from "@/lib/bootstrap";
@@ -16,7 +16,7 @@ const DashboardLayout = ({ children }: RootLayoutProps) => {
 
   let previousWidth = -1;
 
-  const updateWidth = () => {
+  const updateWidth = useCallback(() => {
     const width = window.innerWidth;
     const widthLimit = 576;
     const isMobile = width <= widthLimit;
@@ -27,16 +27,14 @@ const DashboardLayout = ({ children }: RootLayoutProps) => {
     }
 
     previousWidth = width;
-  };
-
+  }, [previousWidth]);
   useEffect(() => {
-    updateWidth();
     window.addEventListener("resize", updateWidth);
 
     return () => {
       window.removeEventListener("resize", updateWidth);
     };
-  }, []);
+  }, [updateWidth]);
 
   const toggle = () => {
     setIsOpen(!isOpen);

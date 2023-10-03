@@ -9,6 +9,7 @@ import {
   DropdownButton,
 } from "@/lib/bootstrap";
 import { FaHandPointRight } from "react-icons/fa";
+import Image from "next/image";
 
 const FriendProfile = ({ friend }) => {
   return (
@@ -21,10 +22,12 @@ const FriendProfile = ({ friend }) => {
         <Fragment>
           <Row>
             <Col md={4}>
-              <img
+              <Image
                 src={friend?.image}
                 alt="Profile Picture"
                 className="img-fluid rounded-circle"
+                width={300}
+                height={300}
               />
             </Col>
             <Col md={8}>

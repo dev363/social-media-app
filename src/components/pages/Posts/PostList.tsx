@@ -10,6 +10,7 @@ import {
   AiOutlineComment,
 } from "react-icons/ai";
 import { BsEmojiLaughing, BsEmojiNeutral, BsEmojiAngry } from "react-icons/bs";
+import Image from "next/image";
 
 const PostList = () => {
   const [list, setList] = useState([]);
@@ -41,7 +42,9 @@ const PostList = () => {
                 <div className="row">
                   {post?.urlToImage && (
                     <div className="col-md-4">
-                      <img
+                      <Image
+                        width={400}
+                        height={300}
                         src={post?.urlToImage}
                         alt="Post Image"
                         className="img-fluid"

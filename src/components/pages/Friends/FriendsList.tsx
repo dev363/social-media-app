@@ -2,6 +2,7 @@
 import React, { useState } from "react";
 import { Card } from "@/lib/bootstrap";
 import "@/styles/components/TeamMemberCard.css";
+import Image from "next/image";
 
 const FriendsArray = [
   {
@@ -73,7 +74,13 @@ const FriendsList = ({ setFriend }) => {
             >
               <div className="member d-flex align-items-start">
                 <div className="pic">
-                  <img src={friend.image} className="img-fluid" alt="" />
+                  <Image
+                    width={150}
+                    height={150}
+                    src={friend.image}
+                    className="img-fluid"
+                    alt=""
+                  />
                 </div>
                 <div className="member-info">
                   <h4>{friend.name}</h4>
