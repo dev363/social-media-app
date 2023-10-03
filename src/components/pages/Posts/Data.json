@@ -1,0 +1,187 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": "financial-times", "name": "Financial Times" },
+      "author": "George Russell, William Langley",
+      "title": "Live news: Tankan survey shows rising confidence at Japan manufacturers - Financial Times",
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "url": "https://www.ft.com/content/373591f5-923c-4524-a90a-a5d7dd71027d",
+      "urlToImage": null,
+      "publishedAt": "2023-10-02T01:17:20Z",
+      "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1494 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Satoshi Sugiyama, Chris Gallagher",
+      "title": "Japan startup develops 'Gundam'-like robot with $3 million price tag - Reuters",
+      "description": "Tokyo-based start-up Tsubame Industries has developed a 4.5-metre-tall (14.8-feet), four-wheeled robot that looks like \"Mobile Suit Gundam\" from the wildly popular Japanese animation series, and it can be yours for $3 million.",
+      "url": "https://www.reuters.com/technology/japan-startup-develops-gundam-like-robot-with-3-mln-price-tag-2023-10-02/",
+      "urlToImage": "https://www.reuters.com/resizer/xu6jW7_irHUchZSESRhkLmEK2h0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VPDJXC2AIRK3ZJWIJU4S2CAMAI.jpg",
+      "publishedAt": "2023-10-02T01:05:00Z",
+      "content": "YOKOHAMA, Japan, Oct 2 (Reuters) - Tokyo-based start-up Tsubame Industries has developed a 4.5-metre-tall (14.8-feet), four-wheeled robot that looks like \"Mobile Suit Gundam\" from the wildly popular … [+1553 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "Garland: I'd resign if Biden asked me to take action on Trump - POLITICO",
+      "description": "\"But there is no sense that anything like that will happen,\" he says in an interview.",
+      "url": "https://www.politico.com/news/2023/10/01/attorney-general-garland-biden-trump-00119411",
+      "urlToImage": "https://static.politico.com/7a/38/2094b7b04f60b4fe9325824b408d/congress-attorney-general-51428.jpg",
+      "publishedAt": "2023-10-02T00:58:58Z",
+      "content": "Garland has spoken only sparingly about the cases and reiterated Sunday he would not get into specifics, but dismissed claims by Trump and his supporters that the cases were timed to ruin his chances… [+1445 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Brianna Williams",
+      "title": "Taylor Swift attends Chiefs-Jets with Blake Lively, Ryan Reynolds - ESPN - ESPN",
+      "description": "Taylor Swift attends her second consecutive Chiefs game after weeks of a rumored romance with Travis Kelce.",
+      "url": "https://www.espn.com/nfl/story/_/id/38543549/sunday-night-football-taylor-swift-travis-kelce-chiefs",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1002%2Fr1232626_2_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-10-02T00:30:00Z",
+      "content": "Superstar Taylor Swift, Travis Kelce's most famous fan, is at MetLife stadium for the Kansas City Chiefs' prime-time matchup against the New York Jets.\r\nEditor's Picks\r\nSwift made an appearance for t… [+1923 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "2023 MLB playoff bracket: Postseason matchups, schedule for Wild Card Series with seeding finalized - CBS Sports",
+      "description": "The 2023 baseball playoffs get started Tuesday, here are the matchups",
+      "url": "https://www.cbssports.com/mlb/news/2023-mlb-playoff-bracket-postseason-matchups-schedule-for-wild-card-series-with-seeding-finalized/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/10/01/5eb1d35a-eca8-40bb-bc58-a127b4e59919/thumbnail/1200x675/e2b32cba59a158df0a4a240f7bd7bcaa/baseballbracket1001right.png",
+      "publishedAt": "2023-10-02T00:17:00Z",
+      "content": "The 2023 MLB playoff bracket was finalized Sunday as baseball's regular season drew to a close. The Astros jumped the Rangers on Sunday to win the AL West title and secure a first-round bye in the 20… [+3148 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Katherine Tangalakis-Lippert",
+      "title": "Dianne Feinstein's replacement will be eligible for a full Senate term - Business Insider",
+      "description": "Progressives are increasingly pressuring California Governor Gavin Newsom to appoint Rep. Barbara Lee to replace Dianne Feinstein in the Senate.",
+      "url": "https://www.businessinsider.com/gavin-newsom-diane-feinstein-replacement-eligible-full-senate-term-2023-10",
+      "urlToImage": "https://i.insider.com/651a00bcec74fc001906fa00?width=1200&format=jpeg",
+      "publishedAt": "2023-10-02T00:16:00Z",
+      "content": "California Governor Gavin Newsom's appointee to replace Dianne Feinstein in the Senate will be eligible to run for a full term in 2024, a spokesperson for Newsom confirmed to Insider.\r\n\"There will be… [+1255 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Aileen Graef",
+      "title": "Matt Gaetz says he will attempt to oust Kevin McCarthy from the speakership this week - CNN",
+      "description": "Rep. Matt Gaetz is planning to attempt to oust Speaker Kevin McCarthy from the role this week after the House leader worked with Democrats to avoid a government shutdown on Saturday.",
+      "url": "https://www.cnn.com/2023/10/01/politics/house-republicans-infighting-matt-gaetz-kevin-mccarthy-shutdown/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230929202100-mccarthy-gaetz-split-vpx.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-10-02T00:09:00Z",
+      "content": "Rep. Matt Gaetz is planning to attempt to oust Speaker Kevin McCarthy from the role this week after the House leader worked with Democrats to avoid a government shutdown on Saturday.\r\nSpeaking with C… [+5804 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Chris Bumbaca, Tyler Dragon, Victoria Hernandez, Alicia DelGallo",
+      "title": "Chiefs-Jets Sunday Night Football live updates: Game highlights with Taylor Swift in house - USA TODAY",
+      "description": "The Chiefs lead 17-0 after TDs from Isiah Pacheco and Noah Gray. Swiftie Nation is behind them at MetLife Stadium. Follow our live updates",
+      "url": "https://www.usatoday.com/story/sports/nfl/2023/10/01/chiefs-jets-taylor-swift-sunday-night-football-live-updates/71016191007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/09/28/USAT/70995985007-mahomes-0928.jpg?crop=3403,1914,x2,y91&width=3200&height=1800&format=pjpg&auto=webp",
+      "publishedAt": "2023-10-01T23:48:45Z",
+      "content": "The Week 4Sunday Night Football game promises to be full of star power and thats not limited to the field.\r\nPop icon Taylor Swift is in the stands for the second consecutive week to watch Travis Kelc… [+11104 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "New England Patriots vs. Dallas Cowboys Game Highlights | NFL 2023 Week 4 - NFL",
+      "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+      "url": "https://www.youtube.com/watch?v=3yFJb769c60",
+      "urlToImage": "https://i.ytimg.com/vi/3yFJb769c60/maxresdefault.jpg",
+      "publishedAt": "2023-10-01T23:45:04Z",
+      "content": null
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Kris Rhim",
+      "title": "Khalil Mack posts six sacks in Chargers' win over Raiders - ESPN",
+      "description": "Los Angeles Chargers edge rusher Khalil Mack, facing the team that drafted him in 2014, registered six sacks, a franchise single-game record, in his club's 24-17 victory over the Las Vegas Raiders on Sunday at SoFi Stadium.",
+      "url": "https://www.espn.com/nfl/story/_/id/38543140/khalil-mack-posts-six-sacks-chargers-win-raiders",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1001%2Fr1232595_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-10-01T23:29:00Z",
+      "content": "INGLEWOOD, Calif. -- Rookie outside linebacker Tuli Tuipulotu sensed that a special performance from Los Angeles Chargers outside linebacker Khalil Mack was on the horizon.\r\n\"He was on a different ty… [+3736 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Jon Wertheim",
+      "title": "Sam Bankman-Fried, FTX at center of new Michael Lewis book \"Going Infinite\" | 60 Minutes - CBS News",
+      "description": "Author Michael Lewis met with FTX founder Sam Bankman-Fried more than 100 times. Lewis breaks down the crypto superstar's rise and fall in his new book, \"Going Infinite.\"",
+      "url": "https://www.cbsnews.com/news/ftx-founder-sam-bankman-fried-michael-lewis-book-60-minutes-transcript/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/09/29/4b3366d7-0970-4d2d-9547-850dd3d3b793/thumbnail/1200x630/6831f3b34c4099f24a9155b9f5633347/sbf-lewis-transcript.jpg?v=42bbcea0e3eaab3fb7d470f54c86b0bd",
+      "publishedAt": "2023-10-01T22:56:00Z",
+      "content": "Michael Lewis has made a literary career finding jump-off-the-page characters, and using them to help tell complicated stories. And what could be more complicated than explaining cryptocurrency? Lewi… [+29497 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hollywood Reporter" },
+      "author": "Kimberly Nordyke",
+      "title": "Robin Williams’ Daughter Zelda Criticizes Use of AI to Recreate His Voice: “I Find It Personally Disturbing” - Hollywood Reporter",
+      "description": "\"These recreations are, at their very best, a poor facsimile of greater people, but at their worst, a horrendous Frankensteinian monster, cobbled together from the worst bits of everything this industry is, instead of what it should stand for,\" she posted.",
+      "url": "https://www.hollywoodreporter.com/business/digital/robin-williams-zelda-criticizes-ai-recreate-his-voice-1235605805/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/robin-zelda.jpg?w=1024",
+      "publishedAt": "2023-10-01T22:54:40Z",
+      "content": "Robin Williams‘ daughter Zelda is speaking out against the use of artificial intelligence to recreate the sound of her father’s voice.\r\n“I am not an impartial voice in SAG’s fight against AI. I’ve wi… [+1848 chars]"
+    },
+
+    {
+      "source": { "id": null, "name": "Fox Business" },
+      "author": "Andrea Vacchiano",
+      "title": "More than a quarter million Onewheel electric skateboards recalled due to deaths, injuries: CPSC - Fox Business",
+      "description": "The CPSC is recalling 300,000 self-balancing Onewheel electric skateboards for safety reasons. Some are asked to dispose their products, while others need to update their firmware.",
+      "url": "https://www.foxbusiness.com/lifestyle/more-quarter-million-onewheel-electric-skateboards-recalled-deaths-injuries-cpsc",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/0/0/Onewheel-plus-XR.png?ve=1&tl=1",
+      "publishedAt": "2023-10-01T22:33:05Z",
+      "content": "The U.S. Consumer Product Safety Commission (CPSC) announced that it is recalling 300,000 self-balancing Onewheel electric skateboards due to various deaths and injuries involving the products.\r\nFutu… [+2090 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Miranda Nazzaro",
+      "title": "Trump says Bowman should be jailed for ‘egregious act’ of pulling fire alarm - The Hill",
+      "description": "Former President Trump said Sunday that Rep. Jamaal Bowman (D-N.Y.) should be jailed for the “egregious act” of pulling the fire alarm Saturday ahead of the House’s vote on a stopgap measure to keep the government open past the midnight deadline. “Will Congre…",
+      "url": "https://thehill.com/homenews/house/4233070-trump-says-bowman-should-be-jailed-for-egregious-act-of-pulling-fire-alarm/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/05/bowmanjamaal_042023gn01_w.jpg?w=1280",
+      "publishedAt": "2023-10-01T22:09:00Z",
+      "content": "Skip to content\r\nFormer President Trump said Sunday that Rep. Jamaal Bowman (D-N.Y.) should be jailed for the “egregious act” of pulling the fire alarm Saturday ahead of the House’s vote on a stopgap… [+2993 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Tony Aiello",
+      "title": "Amber Alert issued for 9-year-old Charlotte Sena, last seen camping with family in Upstate New York - CBS News",
+      "description": "Charlotte Sena disappeared Saturday evening in Moreau Lake State Park, about 190 miles north of New York City.",
+      "url": "https://www.cbsnews.com/newyork/news/amber-alert-charlotte-sena-missing-9-year-old-girl-camping-with-family-upstate-new-york/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/01/d4579167-c661-4d4a-88da-f7fc068aa871/thumbnail/1200x630/0a5929bb023afa098e8c9deef0bff0e1/charlotte-sena-search-3-1.jpg?v=42bbcea0e3eaab3fb7d470f54c86b0bd",
+      "publishedAt": "2023-10-01T20:59:00Z",
+      "content": "MOREAU, N.Y. — Gov. Kathy Hochul said it is \"every parent's nightmare,\" after a 9-year-old girl disappeared from a popular New York State park on Saturday night.\r\nState police issued an AMBER Alert, … [+2484 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "SUZAN FRASER Associated Press",
+      "title": "Turkey strikes suspected Kurdish militant targets in northern Iraq after suicide attack in Ankara - ABC News",
+      "description": "The Turkish defense ministry says its warplanes have carried out raids on suspected Kurdish rebel targets in northern Iraq following a suicide attack on a government building in the Turkish capital",
+      "url": "https://abcnews.go.com/International/wireStory/turkish-media-report-explosion-heard-ankara-day-parliament-103634782",
+      "urlToImage": "https://i.abcnewsfe.com/a/2a3be26b-121e-400e-9a20-62cdf000302d/wirestory_dfdbae1c7cd90f7e0a48b029c866b561_16x9.jpg?w=992",
+      "publishedAt": "2023-10-01T20:48:45Z",
+      "content": "ANKARA, Turkey -- Turkish warplanes carried out airstrikes on suspected Kurdish militant targets in northern Iraq on Sunday following a suicide attack on a government building in the Turkish capital,… [+5282 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Fox Business" },
+      "author": "Eric Revell",
+      "title": "Apple iPhone 15 users complain about overheating issues as Apple prepares fix - Fox Business",
+      "description": "Apple's new iPhone 15 Pro and Pro Max were released last month, and after new owners noticed the iPhones running hot, the company found a software bug and is planning a fix.",
+      "url": "https://www.foxbusiness.com/technology/apple-iphone-15-users-complain-about-overheating-issues-apple-prepares-fix",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/09/0/0/IPhone-Apple-Store-New-York-City.jpg?ve=1&tl=1",
+      "publishedAt": "2023-10-01T20:31:12Z",
+      "content": "Apple’s newest smartphone\r\n has some users complaining about the device overheating, which has prompted the company to plan an update to fix the issue.\r\nThe company released the iPhone 15 Pro and Pro… [+2499 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Forbes" },
+      "author": "Ewan Spence",
+      "title": "How Google's Pixel 8 Pro Will Change Smartphones Forever - Forbes",
+      "description": "Google will want the Pixel 8 and Pixel 8 Pro to be best-sellers, but these phones have another role to play beyond market share.",
+      "url": "https://www.forbes.com/sites/ewanspence/2023/10/01/google-pixel-8-pro-secrets-android-14-decisions-specs/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64d76a819ea4de475e5b25ff/0x0.jpg?format=jpg&crop=968,544,x0,y0,safe&width=1200",
+      "publishedAt": "2023-10-01T20:28:00Z",
+      "content": "Updated October 1st: article originally posted September 30th. \r\nGoogle will launch the new range of Pixel smartphones and peripherals this week. The Pixel 8 Pro is expected to set an impressive mark… [+4697 chars]"
+    }
+  ]
+}

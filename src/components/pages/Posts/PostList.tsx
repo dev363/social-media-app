@@ -11,6 +11,7 @@ import {
 } from "react-icons/ai";
 import { BsEmojiLaughing, BsEmojiNeutral, BsEmojiAngry } from "react-icons/bs";
 import Image from "next/image";
+import ListJson from "./Data.json";
 
 const PostList = () => {
   const [list, setList] = useState([]);
@@ -20,17 +21,18 @@ const PostList = () => {
   }, []);
 
   const GetNews = async () => {
-    try {
-      const data = await Axios.get(
-        `https://newsapi.org/v2/top-headlines?country=us&apiKey=${NEWS_API_KEY}`
-      );
-      if (data?.data?.articles) {
-        console.log(data.data, 4545);
-        setList(data?.data?.articles);
-      }
-    } catch (error) {
-      setList([]);
-    }
+    // try {
+    //   const data = await Axios.get(
+    //     `https://newsapi.org/v2/top-headlines?country=us&apiKey=${NEWS_API_KEY}`
+    //   );
+    //   if (data?.data?.articles) {
+    //     console.log(data.data,ListJson, 4545);
+    //     setList(data?.data?.articles);
+    //   }
+    // } catch (error) {
+    //   setList([ListJson?]);
+    // }
+    setList(ListJson?.articles);
   };
   return (
     <section className="">
